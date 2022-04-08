@@ -1,0 +1,23 @@
+{
+  "name": "data-base",
+  "version": "1.0.0",
+  "description": "Database for dogs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/messimango/Data-Base.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/messimango/Data-Base/issues"
+  },
+  "homepage": "https://github.com/messimango/Data-Base#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}

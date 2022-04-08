@@ -1,0 +1,64 @@
+{
+    "dogs": [
+        {
+            "id": 0,
+            "name": "Sofie",
+            "breed": "English Bulldog & Beagle Mix",
+            "characteristics": "Independent, Funny, Dignified, Friendly, Not Affectionate",
+            "coat": "Short",
+            "house": "Yes",
+            "health": "Vaccinations up to date, spayed / neutered.",
+            "goodw": "Other dogs",
+            "prefers": "Cats",
+            "image": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54716568/1/?bust=1645573902&width=560"
+        },
+        {
+            "id": 1,
+            "name": "Empire",
+            "breed": "Black Labrador Retriever Mix",
+            "characteristics": "Affectionate, Playful, Pushy, Anxious, Funny, Medium energy, Leash Reactive, Calm",
+            "coat": "Short",
+            "house": "Yes",
+            "health": "Vaccinations up to date, spayed / neutered, special needs",
+            "goodw": "Other dogs, children",
+            "prefers": "Cats",
+            "image": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53426215/1/?bust=1635712004&width=720"
+        },
+        {
+            "id": 2,
+            "name": "Pretzel",
+            "breed": "Mastiff & Saint Bernard Mix",
+            "characteristics": "affectionate, loving, protective, reactive, selective, Goofy, Insecure, Cuddly",
+            "coat": "Medium",
+            "house": "Yes",
+            "health": "Vaccinations up to date, spayed / neutered, special needs",
+            "goodw": "Children",
+            "prefers": "Cats",
+            "image": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53426176/2/?bust=1642287337&width=720"
+        },
+        {
+            "id": 3,
+            "name": "Vanjie",
+            "breed": "Akita",
+            "characteristics": "Active, Playful, Affectionate, Smart, Pushy, Stubborn, High energy",
+            "coat": "Long",
+            "house": "Yes",
+            "health": "Vaccinations up to date, spayed / neutered, special needs",
+            "goodw": "Adults",
+            "prefers": "Other dogs, cats, children",
+            "image": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51779588/2/?bust=1642287072&width=720"
+        },
+        {
+            "id": 4,
+            "name": "Tiny(Ragnar)",
+            "breed": "Shepherd & Rottweiler Mix",
+            "characteristics": "Independent, Funny, Dignified, Friendly, Affecionate",
+            "coat": "Medium",
+            "house": "Yes",
+            "health": "Vaccinations up to date, spayed / neutered.",
+            "goodw": "Other dogs, cats.",
+            "prefers": "Loud noises",
+            "image": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52945746/1/?bust=1631322981&width=720"
+        }
+    ]
+}
